@@ -1,0 +1,2 @@
+class RecepieController < ApplicationController
+end
